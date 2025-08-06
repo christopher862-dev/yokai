@@ -29,4 +29,3 @@ func TestNormalizeHTTPStatus(t *testing.T) {
 		}
 	}
 }
-   
