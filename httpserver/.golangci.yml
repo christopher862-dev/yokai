@@ -19,7 +19,7 @@ linters:
     - errorlint
     - exhaustive
     - forbidigo
-    - forcetypeassert
+    - forcetypeassert   
     - gocognit
     - goconst
     - gocritic
