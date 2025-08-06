@@ -20,7 +20,7 @@
   * [Foundations](#foundations)
   * [Extensions](#extensions)
 * [Getting started](#getting-started)
-* [Showroom](#showroom)
+* [Showroom](#showroom)  
 * [Contributing](#contributing)
 <!-- TOC -->
 
