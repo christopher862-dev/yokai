@@ -50,7 +50,7 @@
 * **httpserver:** Updated http server metrics middleware configurations ([#117](https://github.com/ankorstore/yokai/issues/117)) ([0981f93](https://github.com/ankorstore/yokai/commit/0981f93f599f840d46344338baaf87321132a35d))
 
 ## 1.0.0 (2024-01-11)
-
+   
 
 ### Features
 
