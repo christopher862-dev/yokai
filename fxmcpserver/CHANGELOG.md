@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.7.0](https://github.com/christopher862-dev/yokai/compare/fxmcpserver-v1.6.0...fxmcpserver/v1.7.0) (2025-08-07)
+
+
+### Features
+
+* **fxmcpserver:** Added autoconfiguration of the SSE test server endpoints ([#352](https://github.com/christopher862-dev/yokai/issues/352)) ([e8411c8](https://github.com/christopher862-dev/yokai/commit/e8411c84f0c29584c1482d3602438402748a2ff4))
+* **fxmcpserver:** Added MCP SSE server context hooks ([#347](https://github.com/christopher862-dev/yokai/issues/347)) ([d1265bf](https://github.com/christopher862-dev/yokai/commit/d1265bf187401286adaa17f276a66c3b023d6af2))
+* **fxmcpserver:** Added tracing remote propagation ([#350](https://github.com/christopher862-dev/yokai/issues/350)) ([4b07a03](https://github.com/christopher862-dev/yokai/commit/4b07a03f56ac6eaa58e5b90494f0c13b06ac06d5))
+* **fxmcpserver:** Provided module ([#335](https://github.com/christopher862-dev/yokai/issues/335)) ([62b9ecc](https://github.com/christopher862-dev/yokai/commit/62b9eccb05663306a7b4e207107812ebb9af1eb0))
+* **fxmcpserver:** Provided streamable HTTP transport ([#357](https://github.com/christopher862-dev/yokai/issues/357)) ([eb8ca4f](https://github.com/christopher862-dev/yokai/commit/eb8ca4f758e71516f8b351a4161987d66bbbb2de))
+* **fxmcpserver:** Updated context handling ([#340](https://github.com/christopher862-dev/yokai/issues/340)) ([cf6a267](https://github.com/christopher862-dev/yokai/commit/cf6a267ab3d9259a5ca72461d41ebea2a16b5471))
+* **fxmcpserver:** Updated SSE test client ([#342](https://github.com/christopher862-dev/yokai/issues/342)) ([9f9f817](https://github.com/christopher862-dev/yokai/commit/9f9f817e39fa7617c38770ecc1b46de01980aa99))
+
+
+### Bug Fixes
+
+* **fxmcpserver:** Fixed MCP SSE server tracing to accept remote context ([#354](https://github.com/christopher862-dev/yokai/issues/354)) ([b4e71a3](https://github.com/christopher862-dev/yokai/commit/b4e71a32febfa1396ffea43d41d70d8bc3309f51))
+
 ## [1.6.0](https://github.com/ankorstore/yokai/compare/fxmcpserver/v1.5.1...fxmcpserver/v1.6.0) (2025-06-05)
 
 
