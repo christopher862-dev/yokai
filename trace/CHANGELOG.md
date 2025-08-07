@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.5.0](https://github.com/christopher862-dev/yokai/compare/trace-v1.4.0...trace/v1.5.0) (2025-08-07)
+
+
+### Features
+
+* **trace:** Added CtxTracer function and updated dependencies ([#123](https://github.com/christopher862-dev/yokai/issues/123)) ([f8436a3](https://github.com/christopher862-dev/yokai/commit/f8436a3774b7fe0f6788dbf0bf180c85ce747276))
+* **trace:** Added possibility to dump spans from test processor ([#96](https://github.com/christopher862-dev/yokai/issues/96)) ([9b7a0b5](https://github.com/christopher862-dev/yokai/commit/9b7a0b59c2f86ba59847dfee03bf86fe5584a790))
+* **trace:** Disabled otlp-grpc block mode ([#321](https://github.com/christopher862-dev/yokai/issues/321)) ([cf52e8b](https://github.com/christopher862-dev/yokai/commit/cf52e8b5b96a12b97525e600c17bffed08c525cb))
+* **trace:** Provided module ([#7](https://github.com/christopher862-dev/yokai/issues/7)) ([c8fe7c8](https://github.com/christopher862-dev/yokai/commit/c8fe7c8849a4da2578fe0d4bde57c4deec8edf22))
+* **trace:** Updated otlp-grpc connection constructor to have default values ([#188](https://github.com/christopher862-dev/yokai/issues/188)) ([fcd4d56](https://github.com/christopher862-dev/yokai/commit/fcd4d56da2456cfe2add79010ea04f786fc0b616))
+
 ## [1.4.0](https://github.com/ankorstore/yokai/compare/trace/v1.3.0...trace/v1.4.0) (2025-03-05)
 
 
