@@ -13,7 +13,7 @@ linters:
     - decorder
     - dogsled
     - durationcheck
-    - errcheck
+    - errcheck 
     - errchkjson
     - errname
     - errorlint
