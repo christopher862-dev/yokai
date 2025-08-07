@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.6.0](https://github.com/christopher862-dev/yokai/compare/config-v1.5.0...config/v1.6.0) (2025-08-07)
+
+
+### Features
+
+* **config:** Added app description config key ([#270](https://github.com/christopher862-dev/yokai/issues/270)) ([01c1fa1](https://github.com/christopher862-dev/yokai/commit/01c1fa1b7ab15f861d13275aa19d9438fa8d72be))
+* **config:** Added config default path ([#280](https://github.com/christopher862-dev/yokai/issues/280)) ([935d70b](https://github.com/christopher862-dev/yokai/commit/935d70bc2ccb35095ace98aebc7f69b1bdc3aaca))
+* **config:** Added env var helper ([#14](https://github.com/christopher862-dev/yokai/issues/14)) ([6c7b38a](https://github.com/christopher862-dev/yokai/commit/6c7b38a8d2f2abadc8414c97b9c76399867dee51))
+* **config:** Auto-detect ko.build OCI images and set config paths ([#100](https://github.com/christopher862-dev/yokai/issues/100)) ([539cb56](https://github.com/christopher862-dev/yokai/commit/539cb566c07a483079c19d7c422ca72839d443cc))
+* **config:** Provided module ([#1](https://github.com/christopher862-dev/yokai/issues/1)) ([0ad2d8d](https://github.com/christopher862-dev/yokai/commit/0ad2d8dbadda199adddab3d1983e88aa6130d9ef))
+* **config:** Updated dependencies ([#131](https://github.com/christopher862-dev/yokai/issues/131)) ([86a585b](https://github.com/christopher862-dev/yokai/commit/86a585b7eef84cadb91f4d6a3f1caaf8ada6721b))
+
 ## [1.5.0](https://github.com/ankorstore/yokai/compare/config/v1.4.0...config/v1.5.0) (2024-09-25)
 
 
