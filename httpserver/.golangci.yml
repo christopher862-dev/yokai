@@ -49,7 +49,7 @@ linters:
     - nolintlint
     - nosprintfhostport
     - prealloc
-    - predeclared
+    - predeclared 
     - promlinter
     - reassign
     - staticcheck
