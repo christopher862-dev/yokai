@@ -42,7 +42,7 @@ linters:
     - maintidx
     - makezero
     - misspell
-    - nestif
+    - nestif 
     - nilerr
     - nilnil
     - nlreturn
