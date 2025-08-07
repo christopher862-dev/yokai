@@ -55,7 +55,7 @@ linters:
     - staticcheck
     - tenv
     - thelper
-    - tparallel
+    - tparallel 
     - typecheck
     - unconvert
     - unparam
