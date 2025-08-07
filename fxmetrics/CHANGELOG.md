@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.0](https://github.com/christopher862-dev/yokai/compare/fxmetrics-v1.2.0...fxmetrics/v1.3.0) (2025-08-07)
+
+
+### Features
+
+* **fxmetrics:** Added build info, process and go metrics collectors ([#177](https://github.com/christopher862-dev/yokai/issues/177)) ([a220f0c](https://github.com/christopher862-dev/yokai/commit/a220f0ccd06e4dce9d98c3b99934519ecc7472dc))
+* **fxmetrics:** Provided module ([#32](https://github.com/christopher862-dev/yokai/issues/32)) ([b5913d9](https://github.com/christopher862-dev/yokai/commit/b5913d956aa08b8bd17a7e4d23ed59a99c3c67c3))
+* **fxmetrics:** Updated dependencies ([#153](https://github.com/christopher862-dev/yokai/issues/153)) ([d82c47f](https://github.com/christopher862-dev/yokai/commit/d82c47f910c57b836648c37f6639811199def51a))
+
 ## [1.2.0](https://github.com/ankorstore/yokai/compare/fxmetrics/v1.1.0...fxmetrics/v1.2.0) (2024-03-19)
 
 
