@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.7.0](https://github.com/christopher862-dev/yokai/compare/httpserver-v1.6.0...httpserver/v1.7.0) (2025-08-07)
+
+
+### Features
+
+* **httpserver:** Disabled automatic http server tracer provider spans annotations ([#180](https://github.com/christopher862-dev/yokai/issues/180)) ([5bbfc6f](https://github.com/christopher862-dev/yokai/commit/5bbfc6fd0fc21e4eb17768c3ac9d78f238721a2e))
+* **httpserver:** Provided module ([#13](https://github.com/christopher862-dev/yokai/issues/13)) ([4de09ca](https://github.com/christopher862-dev/yokai/commit/4de09cac2127f92707bef095d7dee1b9ecc9851a))
+* **httpserver:** Removed automatic panic recovery and enhanced error handler error stack printing ([#210](https://github.com/christopher862-dev/yokai/issues/210)) ([3464502](https://github.com/christopher862-dev/yokai/commit/3464502c86fe7d8b2149ded17cdb1626b75c306d))
+* **httpserver:** Updated dependencies ([#141](https://github.com/christopher862-dev/yokai/issues/141)) ([1c035f9](https://github.com/christopher862-dev/yokai/commit/1c035f91070da5e2bc4458ccffae48779c15dbe0))
+* **httpserver:** Updated error handler ([#312](https://github.com/christopher862-dev/yokai/issues/312)) ([448f72a](https://github.com/christopher862-dev/yokai/commit/448f72adf8def9f9ef3181dc62e4278d09cd816c))
+* **httpserver:** Updated http server metrics middleware configurations ([#117](https://github.com/christopher862-dev/yokai/issues/117)) ([4318b81](https://github.com/christopher862-dev/yokai/commit/4318b81c9de88df10e4956d16dc9c20aa5cbbd7f))
+* **httpserver:** Updated metrics base name ([#171](https://github.com/christopher862-dev/yokai/issues/171)) ([ef1d392](https://github.com/christopher862-dev/yokai/commit/ef1d3926558610ec104eb7a551b4d3a947295cc3))
+
+
+### Bug Fixes
+
+* **httpserver:** Fixed semconv compatibility ([#182](https://github.com/christopher862-dev/yokai/issues/182)) ([3552572](https://github.com/christopher862-dev/yokai/commit/35525722db714a9e33268c4e97d73285d25d8f9d))
+
 ## [1.6.0](https://github.com/ankorstore/yokai/compare/httpserver/v1.5.0...httpserver/v1.6.0) (2025-02-12)
 
 
@@ -55,13 +73,3 @@
 ### Features
 
 * **httpserver:** Provided module ([#13](https://github.com/ankorstore/yokai/issues/13)) ([8dd2275](https://github.com/ankorstore/yokai/commit/8dd227563d96336faa20c8f7a81605714cb572c4))
-
-
-
-
-
-
-
-
-
-
