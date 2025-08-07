@@ -35,10 +35,10 @@ linters:
     - gosimple
     - govet
     - grouper
-    - importas
+    - importas 
     - ineffassign
     - interfacebloat
-    - loggercheck
+    - loggercheck 
     - maintidx
     - makezero
     - misspell
