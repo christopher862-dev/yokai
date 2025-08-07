@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.0](https://github.com/christopher862-dev/yokai/compare/generate-v1.3.0...generate/v1.4.0) (2025-08-07)
+
+
+### Features
+
+* **generate:** Added UUID V7 generator ([#260](https://github.com/christopher862-dev/yokai/issues/260)) ([cb56c3f](https://github.com/christopher862-dev/yokai/commit/cb56c3fe9af5fa573eb8018239c90bb42c4b322d))
+* **generate:** Added UUIDv6 generation ([#301](https://github.com/christopher862-dev/yokai/issues/301)) ([afdc317](https://github.com/christopher862-dev/yokai/commit/afdc317cdcaf5778c70f94b05542cc0e1c8c25f3))
+* **generate:** Provided module ([#5](https://github.com/christopher862-dev/yokai/issues/5)) ([7849caf](https://github.com/christopher862-dev/yokai/commit/7849caf06d990edf790182910374f320b50c4353))
+* **generate:** Updated dependencies ([#129](https://github.com/christopher862-dev/yokai/issues/129)) ([7db1e61](https://github.com/christopher862-dev/yokai/commit/7db1e6157d83f3dffdca2fb08ad757392ffcf7ad))
+
 ## [1.3.0](https://github.com/ankorstore/yokai/compare/generate/v1.2.0...generate/v1.3.0) (2024-11-18)
 
 
