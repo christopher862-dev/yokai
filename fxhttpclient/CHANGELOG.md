@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.5.0](https://github.com/christopher862-dev/yokai/compare/fxhttpclient-v1.4.0...fxhttpclient/v1.5.0) (2025-08-07)
+
+
+### Features
+
+* **fxhttpclient:** Added configurable metrics on http client usage ([#110](https://github.com/christopher862-dev/yokai/issues/110)) ([6e24cfe](https://github.com/christopher862-dev/yokai/commit/6e24cfedddb6c3d6942616b7b61553b8bcaadf95))
+* **fxhttpclient:** Added request path normalization mechanism for client metrics ([#115](https://github.com/christopher862-dev/yokai/issues/115)) ([5e75706](https://github.com/christopher862-dev/yokai/commit/5e757069a88f0707397ec71979dd6c1bc6d7f14e))
+* **fxhttpclient:** Provided module ([#38](https://github.com/christopher862-dev/yokai/issues/38)) ([f98be8f](https://github.com/christopher862-dev/yokai/commit/f98be8f4bb41961996b50224eebb1774148f1035))
+* **fxhttpclient:** Updated dependencies ([#161](https://github.com/christopher862-dev/yokai/issues/161)) ([3e883d7](https://github.com/christopher862-dev/yokai/commit/3e883d72ccaa9b459ed84a0a2c7d4eaa70cd0dc7))
+* **fxhttpclient:** Updated metrics base name ([#169](https://github.com/christopher862-dev/yokai/issues/169)) ([d91f947](https://github.com/christopher862-dev/yokai/commit/d91f947d0653dd5149564a6406e74387c8b58c55))
+
 ## [1.4.0](https://github.com/ankorstore/yokai/compare/fxhttpclient/v1.3.0...fxhttpclient/v1.4.0) (2024-03-15)
 
 
