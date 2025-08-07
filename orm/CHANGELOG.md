@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/christopher862-dev/yokai/compare/orm-v1.1.0...orm/v1.2.0) (2025-08-07)
+
+
+### Features
+
+* **orm:** Provided module ([#20](https://github.com/christopher862-dev/yokai/issues/20)) ([0748b34](https://github.com/christopher862-dev/yokai/commit/0748b3436fe4a41bf5f0e288d967063c3ecfb34c))
+* **orm:** Updated dependencies ([#135](https://github.com/christopher862-dev/yokai/issues/135)) ([7b77e65](https://github.com/christopher862-dev/yokai/commit/7b77e65d1c58d1ba184e79b2731c20494628278c))
+
 ## [1.1.0](https://github.com/ankorstore/yokai/compare/orm/v1.0.0...orm/v1.1.0) (2024-03-14)
 
 
