@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.8.0](https://github.com/christopher862-dev/yokai/compare/fxhttpserver-v1.7.0...fxhttpserver/v1.8.0) (2025-08-07)
+
+
+### Features
+
+* **fxhttpserver:** Added possibility to register custom error handler ([#314](https://github.com/christopher862-dev/yokai/issues/314)) ([7fc11ee](https://github.com/christopher862-dev/yokai/commit/7fc11ee3b5dcfdfd7bea633c7a5076e3d0f1a2db))
+* **fxhttpserver:** Added possibility to specify several HTTP methods during handlers registration ([#294](https://github.com/christopher862-dev/yokai/issues/294)) ([b45a151](https://github.com/christopher862-dev/yokai/commit/b45a151233ead16b58b415e21baa29b35a5ceec2))
+* **fxhttpserver:** Added support for listener address ([#202](https://github.com/christopher862-dev/yokai/issues/202)) ([caccd71](https://github.com/christopher862-dev/yokai/commit/caccd71ef5daef87637ec1dc5f4386813ab0ce85))
+* **fxhttpserver:** Provided module ([#40](https://github.com/christopher862-dev/yokai/issues/40)) ([990d1fd](https://github.com/christopher862-dev/yokai/commit/990d1fd7cd0d3bcae1849287a10c8884745e54f1))
+* **fxhttpserver:** Provided module ([#42](https://github.com/christopher862-dev/yokai/issues/42)) ([bfd2bb6](https://github.com/christopher862-dev/yokai/commit/bfd2bb6a78db27f9ff038d674cfeb9c9463ae9df))
+* **fxhttpserver:** Updated dependencies ([#173](https://github.com/christopher862-dev/yokai/issues/173)) ([c26adbc](https://github.com/christopher862-dev/yokai/commit/c26adbc2a88326eca6e726f7a9ae468b420ca71a))
+* **fxhttpserver:** Updated http server metrics configurations ([#119](https://github.com/christopher862-dev/yokai/issues/119)) ([2c8225d](https://github.com/christopher862-dev/yokai/commit/2c8225d203e909ef2ed27c635a98bd5a7ac65ea8))
+* **fxhttpserver:** Updated httpserver dependency and added tracer annotator ([#184](https://github.com/christopher862-dev/yokai/issues/184)) ([a3caf44](https://github.com/christopher862-dev/yokai/commit/a3caf44a46d3e695b981689b03127e1a4e0f4157))
+* **fxhttpserver:** Updated panic recovery to prevent observability middlewares interruption ([#212](https://github.com/christopher862-dev/yokai/issues/212)) ([e6cea65](https://github.com/christopher862-dev/yokai/commit/e6cea65948cb02ff50a6f720789f78a1a1e6020c))
+
+
+### Bug Fixes
+
+* **fxhttpserver:** Fixed handlers registration logs ([#298](https://github.com/christopher862-dev/yokai/issues/298)) ([8acf738](https://github.com/christopher862-dev/yokai/commit/8acf738d1226fc3beb9c35f349f38bf564b1120e))
+
 ## [1.7.0](https://github.com/ankorstore/yokai/compare/fxhttpserver/v1.6.1...fxhttpserver/v1.7.0) (2025-02-13)
 
 
