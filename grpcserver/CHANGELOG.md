@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.0](https://github.com/christopher862-dev/yokai/compare/grpcserver-v1.2.0...grpcserver/v1.3.0) (2025-08-07)
+
+
+### Features
+
+* **grpcserver:** Added bufconn connection factory ([#284](https://github.com/christopher862-dev/yokai/issues/284)) ([eb9adf4](https://github.com/christopher862-dev/yokai/commit/eb9adf4569a3a3e7b06b8eb37de1bd2e76881d8e))
+* **grpcserver:** Provided module ([#87](https://github.com/christopher862-dev/yokai/issues/87)) ([a500ca5](https://github.com/christopher862-dev/yokai/commit/a500ca5051c2c82cc09bed284a00c2408d61b027))
+* **grpcserver:** Updated dependencies ([#137](https://github.com/christopher862-dev/yokai/issues/137)) ([3300516](https://github.com/christopher862-dev/yokai/commit/330051649a70062250cb4f9f16c53bf62eee2f46))
+
 ## [1.2.0](https://github.com/ankorstore/yokai/compare/grpcserver/v1.1.0...grpcserver/v1.2.0) (2024-10-01)
 
 
