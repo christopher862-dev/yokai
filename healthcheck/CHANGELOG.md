@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/christopher862-dev/yokai/compare/healthcheck-v1.1.0...healthcheck/v1.2.0) (2025-08-07)
+
+
+### Features
+
+* **healthcheck:** Provided module ([#9](https://github.com/christopher862-dev/yokai/issues/9)) ([ce4ae02](https://github.com/christopher862-dev/yokai/commit/ce4ae023da32d21fff108f7751dcb08c42b4f6e5))
+* **healthcheck:** Updated dependencies ([#127](https://github.com/christopher862-dev/yokai/issues/127)) ([a55853d](https://github.com/christopher862-dev/yokai/commit/a55853ddb166231704b2fa0a0efe71b8a6fa8cd5))
+
 ## [1.1.0](https://github.com/ankorstore/yokai/compare/healthcheck/v1.0.0...healthcheck/v1.1.0) (2024-03-13)
 
 
