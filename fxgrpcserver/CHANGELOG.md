@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.4.0](https://github.com/christopher862-dev/yokai/compare/fxgrpcserver-v1.3.0...fxgrpcserver/v1.4.0) (2025-08-07)
+
+
+### Features
+
+* **fxgrpcserver:** Added support for listener address ([#204](https://github.com/christopher862-dev/yokai/issues/204)) ([39c8f7f](https://github.com/christopher862-dev/yokai/commit/39c8f7f109df5da72330c77941c091feee6f7d94))
+* **fxgrpcserver:** Added test helpers for creating gRPC client connections ([#286](https://github.com/christopher862-dev/yokai/issues/286)) ([c387e75](https://github.com/christopher862-dev/yokai/commit/c387e7591ede98695c9cbebdcf87ab7d08af7c5c))
+* **fxgrpcserver:** Provided module ([#91](https://github.com/christopher862-dev/yokai/issues/91)) ([05c63df](https://github.com/christopher862-dev/yokai/commit/05c63df5c8104e2a3f2c8ff9c20e48390392ed5e))
+* **fxgrpcserver:** Updated dependencies ([#165](https://github.com/christopher862-dev/yokai/issues/165)) ([eb21728](https://github.com/christopher862-dev/yokai/commit/eb2172841ebcdccba554790be89a338b35fce913))
+* **log:** Updated default logger and added possibility to dump logs test buffer ([#92](https://github.com/christopher862-dev/yokai/issues/92)) ([8e9f27c](https://github.com/christopher862-dev/yokai/commit/8e9f27c68b710175776bf4dfea3fbe1be8d20979))
+
 ## [1.3.0](https://github.com/ankorstore/yokai/compare/fxgrpcserver/v1.2.0...fxgrpcserver/v1.3.0) (2024-10-01)
 
 
