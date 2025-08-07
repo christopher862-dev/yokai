@@ -101,6 +101,6 @@ nav:
       - "SQL": modules/fxsql.md
       - "Trace": modules/fxtrace.md
       - "Validator": modules/fxvalidator.md 
-      - "Worker": modules/fxworker.md  
+      - "Worker": modules/fxworker.md    
           
                       
