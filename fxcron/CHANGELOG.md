@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/christopher862-dev/yokai/compare/fxcron-v1.1.0...fxcron/v1.2.0) (2025-08-07)
+
+
+### Features
+
+* **fxcron:** Provided module ([#81](https://github.com/christopher862-dev/yokai/issues/81)) ([51a576d](https://github.com/christopher862-dev/yokai/commit/51a576db06828dce700d8a026f483ad5bdccd381))
+* **fxcron:** Updated dependencies ([#159](https://github.com/christopher862-dev/yokai/issues/159)) ([8b961cc](https://github.com/christopher862-dev/yokai/commit/8b961cc6713aa31b131f088807105bb536a69b68))
+
 ## [1.1.0](https://github.com/ankorstore/yokai/compare/fxcron/v1.0.0...fxcron/v1.1.0) (2024-03-15)
 
 
