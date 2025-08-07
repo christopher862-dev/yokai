@@ -60,5 +60,5 @@ linters:
     - unconvert
     - unparam 
     - unused
-    - usestdlibvars
+    - usestdlibvars 
     - whitespace
